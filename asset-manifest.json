@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demo-sanka-social-network/static/css/main.31994573.css",
+    "main.js": "/demo-sanka-social-network/static/js/main.9c20209d.js",
+    "static/css/243.7c3f96be.chunk.css": "/demo-sanka-social-network/static/css/243.7c3f96be.chunk.css",
+    "static/js/243.e6b77143.chunk.js": "/demo-sanka-social-network/static/js/243.e6b77143.chunk.js",
+    "static/css/522.b9ef690a.chunk.css": "/demo-sanka-social-network/static/css/522.b9ef690a.chunk.css",
+    "static/js/522.b4863457.chunk.js": "/demo-sanka-social-network/static/js/522.b4863457.chunk.js",
+    "static/js/787.9ce9f379.chunk.js": "/demo-sanka-social-network/static/js/787.9ce9f379.chunk.js",
+    "static/media/load.gif": "/demo-sanka-social-network/static/media/load.30e900c653e116179263.gif",
+    "static/media/user.png": "/demo-sanka-social-network/static/media/user.df4fded682bb674130a7.png",
+    "index.html": "/demo-sanka-social-network/index.html",
+    "main.31994573.css.map": "/demo-sanka-social-network/static/css/main.31994573.css.map",
+    "main.9c20209d.js.map": "/demo-sanka-social-network/static/js/main.9c20209d.js.map",
+    "243.7c3f96be.chunk.css.map": "/demo-sanka-social-network/static/css/243.7c3f96be.chunk.css.map",
+    "243.e6b77143.chunk.js.map": "/demo-sanka-social-network/static/js/243.e6b77143.chunk.js.map",
+    "522.b9ef690a.chunk.css.map": "/demo-sanka-social-network/static/css/522.b9ef690a.chunk.css.map",
+    "522.b4863457.chunk.js.map": "/demo-sanka-social-network/static/js/522.b4863457.chunk.js.map",
+    "787.9ce9f379.chunk.js.map": "/demo-sanka-social-network/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31994573.css",
+    "static/js/main.9c20209d.js"
+  ]
+}
