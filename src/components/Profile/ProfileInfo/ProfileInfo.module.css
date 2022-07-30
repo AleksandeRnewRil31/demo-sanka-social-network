@@ -1,0 +1,12 @@
+.discriptionBlock {
+    padding: 10px;
+}
+
+.imageUrl {
+    width: 400px;
+    border-radius: 0px 0px 30px 0px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}

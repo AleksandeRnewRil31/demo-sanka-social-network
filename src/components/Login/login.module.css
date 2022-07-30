@@ -1,0 +1,32 @@
+.form {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    padding: 5px;
+    margin-top: 10px;
+    width: 430px;
+    border: solid 5px rgba(11, 133, 57, 0.411);
+    border-radius: 4px;
+}
+
+.input{
+    line-height: 1.5em;
+    border-radius: 4px;
+    border: solid 3px rgba(10, 116, 36, 0.933);
+    padding: 8px 7px;
+    display: block;
+    width: 75%;
+    box-sizing: border-box;
+}
+
+.error{
+    color: red;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.formSummaryError {
+    border: red 1px solid;
+    padding: 5px;
+    color:blueviolet
+}

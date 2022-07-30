@@ -1,0 +1,18 @@
+.header {
+    grid-area: h;
+    background-color: rgb(30, 70, 30);
+    /* background-image: url(https://i.pinimg.com/originals/3d/92/e6/3d92e68c18ba5545e4a10beeccbfa329.jpg); */
+    border: 7px solid rgba(12, 27, 22);
+  }
+  
+  .headerImg {
+    width: 60px;
+  }
+
+  .loginBlock {
+    float: right;
+  }
+
+  .loginBlock a {
+    color: white;
+  }
