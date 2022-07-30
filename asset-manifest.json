@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-sanka-social-network/static/css/main.31994573.css",
-    "main.js": "/demo-sanka-social-network/static/js/main.95dfb6c9.js",
+    "main.js": "/demo-sanka-social-network/static/js/main.783b840c.js",
     "static/css/243.7c3f96be.chunk.css": "/demo-sanka-social-network/static/css/243.7c3f96be.chunk.css",
     "static/js/243.e6b77143.chunk.js": "/demo-sanka-social-network/static/js/243.e6b77143.chunk.js",
     "static/css/522.b9ef690a.chunk.css": "/demo-sanka-social-network/static/css/522.b9ef690a.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/user.png": "/demo-sanka-social-network/static/media/user.df4fded682bb674130a7.png",
     "index.html": "/demo-sanka-social-network/index.html",
     "main.31994573.css.map": "/demo-sanka-social-network/static/css/main.31994573.css.map",
-    "main.95dfb6c9.js.map": "/demo-sanka-social-network/static/js/main.95dfb6c9.js.map",
+    "main.783b840c.js.map": "/demo-sanka-social-network/static/js/main.783b840c.js.map",
     "243.7c3f96be.chunk.css.map": "/demo-sanka-social-network/static/css/243.7c3f96be.chunk.css.map",
     "243.e6b77143.chunk.js.map": "/demo-sanka-social-network/static/js/243.e6b77143.chunk.js.map",
     "522.b9ef690a.chunk.css.map": "/demo-sanka-social-network/static/css/522.b9ef690a.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.31994573.css",
-    "static/js/main.95dfb6c9.js"
+    "static/js/main.783b840c.js"
   ]
 }
